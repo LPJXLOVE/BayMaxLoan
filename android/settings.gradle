@@ -1,0 +1,3 @@
+rootProject.name = 'BayMaxLoan'
+
+include ':app'
